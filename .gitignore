@@ -1,0 +1,57 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+corpus/
+out/
+output/
+driver
+seed/
+compile_cmds/
+.idea/
+cmake-build-debug/
+exp/
+
+# afl binaries
+afl-as
+afl-clang
+afl-clang++
+afl-clang-fast
+afl-clang-fast++
+afl-fuzz
+afl-g++
+afl-gcc
+afl-gotcpu
+afl-showmap
+afl-tmin
+afl-analyze
+as
