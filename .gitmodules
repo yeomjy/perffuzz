@@ -1,9 +1,0 @@
-[submodule "apps/bzip2/bzip2"]
-	path = apps/bzip2/bzip2
-	url = https://gitlab.com/bzip2/bzip2.git
-[submodule "apps/libpng/libpng"]
-	path = apps/libpng/libpng
-	url = https://github.com/pnggroup/libpng.git
-[submodule "apps/libxml2/libxml2"]
-	path = apps/libxml2/libxml2
-	url = https://gitlab.gnome.org/GNOME/libxml2.git
